@@ -1,16 +1,21 @@
-## Hi there 👋
+## 💙💛💚Boas Vindas Ao Meu Perfil💚💛💙
+Meu nome é Julian Verissimo
 
-<!--
-**Juhvee05/Juhvee05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Estou estudando na Alura
+- Estou aprendendo um pouco de JavaScript
+- Quero aprender a línguagem Python
+- Tenho muito interesse na área de desenvolvimento de jogos
 
-Here are some ideas to get you started:
+## Você pode entrar em contato comigo 📫
+Julianbrunoferreira@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💙❤️🤍Welcome To My Profile🤍❤️💙
+My name is Julian Verissimo
+
+- I'm currently studying at Alura
+- I'm learning a little bit of JavaScript
+- I want to learn Python
+- I'm very intrested in the game developing area
+
+## You can contact me 📫
+Julianbrunoferreira@gmail.com
